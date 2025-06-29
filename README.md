@@ -28,19 +28,19 @@
 ## 📚 Pinned Projects:
 
 - **Quiz App (Django + API)** — A full-stack quiz platform built using **Django**, featuring API integration for managing and rendering dynamic MCQs.  
-  🔗 [Live Demo](#) • 📂 [Source Code](#)
+  🔗 [Live Demo](#)
 
 - **Quiz Game (HTML/CSS/JS)** — A lightweight and fun quiz game with real-time scoring and option selection built using **HTML**, **CSS**, and **JavaScript**.  
-  🔗 [Live Demo](https://mini-questions.netlify.app) • 📂 [Source Code](https://github.com/rahul-brahmane/QuizGame)
+  🔗 [Live Demo](https://mini-questions.netlify.app)
 
 - **Weather App** — Live weather updates using the **OpenWeather API**, built with **JavaScript** and **Fetch API**.  
-  🔗 [Live Demo](#) • 📂 [Source Code](#)
+  🔗 [Live Demo](#)
 
 - **Netflix Clone** — Basic UI clone of Netflix using **HTML/CSS/JS**, integrated with movie search APIs.  
-  🔗 [Live Demo](#) • 📂 [Source Code](#)
+  🔗 [Live Demo](#)
 
 - **Gold Rush Express Website** — Company website featuring **GSAP animations** and payment system integration using **Node.js** and **Express.js**.  
-  🔗 [Live Demo](#) • 📂 [Source Code](#)
+  🔗 [Live Demo](https://goldrushexpress.netlify.app)
 
 ---
 
