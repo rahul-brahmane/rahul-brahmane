@@ -25,6 +25,25 @@
 
 ---
 
+## 📚 Pinned Projects:
+
+- **Quiz App (Django + API)** — A full-stack quiz platform built using **Django**, featuring API integration for managing and rendering dynamic MCQs.  
+  🔗 [Live Demo](#) • 📂 [Source Code](#)
+
+- **Quiz Game (HTML/CSS/JS)** — A lightweight and fun quiz game with real-time scoring and option selection built using **HTML**, **CSS**, and **JavaScript**.  
+  🔗 [Live Demo](https://mini-questions.netlify.app) • 📂 [Source Code](https://github.com/rahul-brahmane/QuizGame)
+
+- **Weather App** — Live weather updates using the **OpenWeather API**, built with **JavaScript** and **Fetch API**.  
+  🔗 [Live Demo](#) • 📂 [Source Code](#)
+
+- **Netflix Clone** — Basic UI clone of Netflix using **HTML/CSS/JS**, integrated with movie search APIs.  
+  🔗 [Live Demo](#) • 📂 [Source Code](#)
+
+- **Gold Rush Express Website** — Company website featuring **GSAP animations** and payment system integration using **Node.js** and **Express.js**.  
+  🔗 [Live Demo](#) • 📂 [Source Code](#)
+
+---
+
 ## 📊 GitHub Stats:
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-brahmane&show_icons=true&theme=radical)
 
@@ -37,11 +56,3 @@
 
 ## ✍️ Random Dev Quote:
 > "The best way to predict the future is to invent it." – Alan Kay
-
----
-
-## 📚 Pinned Projects:
-- **Quiz App** — Web app to attempt MCQ quizzes using Django and API integration
-- **Weather App** — Live weather updates using APIs, built with JavaScript and Fetch API
-- **Netflix Clone** — Basic front-end clone with API handling for movie search
-- **Gold Rush Express Website** — Company website with GSAP animations and payment integration (Node.js, Express)
