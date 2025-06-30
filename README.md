@@ -28,8 +28,7 @@
 ## 📚 Pinned Projects:
 
 - **Quiz App (Django + API)** — A full-stack quiz platform built using **Django**, featuring API integration for managing and rendering dynamic MCQs.  
-  🔗 [Live Demo](#)
-
+  
 - **Quiz Game (HTML/CSS/JS)** — A lightweight and fun quiz game with real-time scoring and option selection built using **HTML**, **CSS**, and **JavaScript**.  
   🔗 [Live Demo](https://mini-questions.netlify.app)
 
