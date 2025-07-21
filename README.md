@@ -1,15 +1,15 @@
 # 💫 About Me:
 
-👋 Hi, I’m @rahul-brahmane  
-👀 I’m a coding enthusiast  
-🌱 I have a solid foundation in Web Development  
-🕸️ Backend and Frontend are my areas of interest  
-📱 Currently learning React.js, Node.js, Express, MongoDB, and Firebase  
-💞️ I’m looking to collaborate on Web Development projects
+👋 Hi, I’m **Rahul Brahmane** (@rahul-brahmane)  
+💡 Passionate about building full-stack web applications  
+🧠 Currently deepening my skills in the **MERN Stack** and **Firebase**  
+🎯 Interested in solving real-world problems through **Web Development**  
+🤝 Open to collaborating on exciting and impactful projects  
 
 ---
 
 ## 💻 Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,33 +25,49 @@
 
 ---
 
-## 📚 Pinned Projects:
+## 🚀 Pinned Projects:
 
-- **Quiz App (Django + API)** — A full-stack quiz platform built using **Django**, featuring API integration for managing and rendering dynamic MCQs.  
+- **Quiz App (Django + API)**  
+  A dynamic quiz platform built with Django, using API integration to fetch and display multiple-choice questions.  
   
-- **Quiz Game (HTML/CSS/JS)** — A lightweight and fun quiz game with real-time scoring and option selection built using **HTML**, **CSS**, and **JavaScript**.  
+- **Quiz Game (HTML/CSS/JS)**  
+  A fun and interactive browser-based quiz game with real-time scoring.  
   🔗 [Live Demo](https://mini-questions.netlify.app)
 
-- **Weather App** — Live weather updates using the **OpenWeather API**, built with **JavaScript** and **Fetch API**.  
+- **Weather App**  
+  Displays real-time weather updates using OpenWeatherMap API. Built with plain JavaScript.  
   🔗 [Live Demo](#)
 
-- **Netflix Clone** — Basic UI clone of Netflix using **HTML/CSS/JS**, integrated with movie search APIs.  
+- **Netflix Clone**  
+  A basic Netflix UI clone with movie search functionality using JavaScript APIs.  
   🔗 [Live Demo](#)
 
-- **Gold Rush Express Website** — Company website featuring **GSAP animations** and payment system integration using **Node.js** and **Express.js**.  
+- **Gold Rush Express Website**  
+  A company site with GSAP animations and integrated payment gateway. Developed using Node.js and Express.js.  
   🔗 [Live Demo](https://goldrushexpress.netlify.app)
 
 ---
 
 ## 📊 GitHub Stats:
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-brahmane&show_icons=true&theme=radical)
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-brahmane&show_icons=true&theme=radical)
+
+---
+
+## 📈 Contribution Graph & Streak:
+
+![Rahul's GitHub Streak](https://streak-stats.demolab.com?user=rahul-brahmane&theme=radical&hide_border=true)
+
+![Rahul's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahul-brahmane&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies:
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rahul-brahmane&theme=flat)
 
 ---
 
 ## ✍️ Random Dev Quote:
+
 > "The best way to predict the future is to invent it." – Alan Kay
