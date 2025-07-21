@@ -56,9 +56,9 @@
 
 ## 📈 Contribution Graph & Streak:
 
-![Rahul's GitHub Streak](https://streak-stats.demolab.com?user=rahul-brahmane&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rahul-brahmane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Rahul's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahul-brahmane&theme=radical&hide_border=true)
+[![Rahul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul-brahmane&theme=tokyo-night&hide_border=true)](https://github.com/rahul-brahmane)
 
 ---
 
